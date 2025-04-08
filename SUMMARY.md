@@ -1,6 +1,6 @@
 # Table of contents
 
-## Group 1
+## TOS - Privacy policy
 
 * [Privacy Policy](README.md)
 
