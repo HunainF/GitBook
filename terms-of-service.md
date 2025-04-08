@@ -150,8 +150,8 @@ We reserve the right to:
 
 For questions about these Terms, please contact:
 
-* Discord: \[Your Discord Username]
-* Support Server: \[Your Support Server Link]
+* Discord: @Laaw\_x
+* Support Server: [Support Server](https://discord.gg/XhEGkTMtvw)
 
 ### Legal Compliance
 
@@ -177,8 +177,8 @@ For questions about these Terms, please contact:
 
 #### Governing Law
 
-* These Terms are governed by \[Your Country] law
-* Disputes will be resolved in \[Your Country] courts
+* These Terms are governed by UK law
+* Disputes will be resolved in UK courts
 * Users agree to submit to jurisdiction of these courts
 
 ### Version History
